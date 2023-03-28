@@ -1,0 +1,35 @@
+<!DOCtype html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <center><h2>Welcome to Web 101.</h2></center>
+        <p>paragraph is where you will add content and it will be on new line when you add it.</p>
+        <p>can you see the difference that it is on a new line?</p>
+        <u><b>making text bold is one way to format</b></u>
+        <p><font color="green" size="30"> it is fun working with HTML</font></p>
+        <div>
+            do you know where practical it is?<a href="http://thepracticalit.com" target="_parent">here</a>
+        <img src="https://via.placeholder.com/150"/>
+        <table border="">
+            <tr>
+                <td>Item</td>
+                <td>Quantity</td>
+                <td>Condition</td>
+            </tr>
+            <tr>
+                <td>Table</td>
+                <td>5</td>
+                <td>Great</td>
+            </tr>
+            <tr>
+                <td>Kitchen Items</td>
+                <td>18</td>
+                <td>Fair</td>
+            </tr>
+        </table>
+        <footer> &copy; 2019</footer>
+        </div>
+    </body>
+</html>

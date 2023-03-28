@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practical IT</title>
+    <link type="text/css" rel="stylesheet" href="practical IT/CSS/Styles1.css">
+</head>
+<body>
+    <h3 id="header">The first webpage on VSC</h3>
+
+    <!-- using the form elements-->
+    <form>
+        Your data here <input id="data" type="text"/>
+        <!-- adding select box-->
+        <div>
+            <!-- you can select multiple options using mutiple property
+                when that is the case, use the ctrl to select more items from the 
+                options
+            -->
+            <select id="state" multiple>
+                <option value="">Select State</option>
+                <option value="CA">California</option>
+                <option value="NY">New York</option>
+                <option value="MD">Maryland</option>
+            </select>
+        </div>
+        <!-- adding checkboxes in the html-->
+        <div class="first">
+            <p>Your hobbies</p>
+            Movies <input type="checkbox" value="movies" name="hobbies"/>
+            Jogging <input type="checkbox" value="jogging" name="hobbies"/>
+            Gaming <input type="checkbox" value="gaming" name="hobbies"/>
+            Reading <input type="checkbox" value="reading" name="hobbies"/>
+        </div>
+        <!-- adding radio buttions in the html-->
+        <div class="display">
+            <p>Your highest education</p>
+            Doctors <input type="radio" value="phd" name='higherEd'/>
+            Masters <input type="radio" value="msc" name='higherEd'/>
+            BSc <input type="radio" value="msc" name='higherEd'/>
+            Highschool Diploma <input type="radio" value="hd" name='higherEd'/>
+        </div>
+    </form>
+</body>
+</html>

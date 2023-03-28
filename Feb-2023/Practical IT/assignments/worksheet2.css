@@ -1,0 +1,33 @@
+body{
+   /* background-image:url(https://cdn.pixabay.com/photo/2016/01/08/05/24/sunflower-1127174_1280.jpg);; background-position: center 50px;background-repeat: no-repeat;*/
+}
+h2{
+    text-align: center; color: green; 
+}
+td{
+    padding-right: 250px;
+}
+table{
+    padding-left: 2px;padding-right: 2px;
+}
+.data1{
+    background-image: url(https://cdn.pixabay.com/photo/2022/02/17/09/07/storm-7018311_1280.jpg); background-position: center; background-repeat: none; 
+}
+.data2{
+    background-color: aqua;
+}
+#lower{
+    margin: 40px;
+}
+#upper{
+    outline-color: blue; outline-style: dotted; outline-width: 6px;
+}
+/*p:hover{
+background-color: yellowgreen;
+}
+a:link{
+color: blue;
+}
+a:visited{
+    color: red;
+}*/

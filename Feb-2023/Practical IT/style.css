@@ -1,0 +1,23 @@
+p {
+    background-color: green;
+    font-size: 20px;
+    color: blue;
+}
+#footer {
+    font-weight: bold;
+    color: black;
+}
+.hightligher {
+    background-color: yellow;
+}
+li.first-li {
+    color: green;
+}
+​
+div h2 {
+    border: 2px solid black;
+}
+h1 {
+    color:red; 
+    border: 2px solid brown;
+}

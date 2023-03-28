@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Stay Productive</title>
+    </head>
+    <body>
+        <h2>Home Organizing</h2>
+        <p>Home organizing can sometimes be a daunting task to get around with. But it shouldn't be that hard, should it? The basic point to understand is that it's not a one time task and it revolves around the idea of SPACE!</p>
+        <br/>
+        <center><img src="https://cdn.pixabay.com/photo/2019/04/18/16/24/home-4137379_1280.jpg" width="40%" alt="A clean Living room"/></center>
+
+        <br />
+        <p>Here are a few ideas to get you started</p>
+        <br />
+        <table border="2">
+            <tr>
+                <td>Daily</td>
+                <td>Vaccum and mop</td>
+            </tr>
+            <tr>
+                <td>Weekly</td>
+                <td>Laundry and deep cleaning</td>
+            </tr>
+            <tr>
+                <td>Monthly</td>
+                <td>Declutter</td>
+            </tr>
+            <tr>
+                <td>Every three months</td>
+                <td>Major overall cleaning</td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <p> Here is a list of helpful sites to visit</p>
+        <ul>
+            <li><a href="https://konmari.com"> Marie Kondo</li>
+            <li><a href="https://www.becomingminimalist.com/creative-ways-to-declutter/"> Home declutter</li>    
+        </ul>
+    </body>
+</html>
